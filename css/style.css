@@ -15,9 +15,9 @@
     --carlog-color: #4A90E2;
     --agenda-color: #1a73e8;
     --shiftix-color: #667eea;
-    --bg-dark: #0f172a;
-    --bg-card: #1e293b;
-    --bg-card-hover: #253347;
+    --bg-dark: #1a2332;
+    --bg-card: #243447;
+    --bg-card-hover: #2d3f54;
     --text-primary: #f1f5f9;
     --text-secondary: #94a3b8;
     --text-muted: #64748b;
@@ -70,7 +70,7 @@ ul {
     height: 70px;
     display: flex;
     align-items: center;
-    background: rgba(15, 23, 42, 0.8);
+    background: rgba(26, 35, 50, 0.8);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border-bottom: 1px solid var(--border-color);
@@ -627,7 +627,7 @@ ul {
 .footer {
     padding: 60px 0 30px;
     border-top: 1px solid var(--border-color);
-    background: rgba(15, 23, 42, 0.6);
+    background: rgba(26, 35, 50, 0.6);
 }
 
 .footer-grid {
@@ -746,7 +746,7 @@ ul {
         top: 70px;
         right: 0;
         left: 0;
-        background: rgba(15, 23, 42, 0.95);
+        background: rgba(26, 35, 50, 0.95);
         backdrop-filter: blur(20px);
         flex-direction: column;
         padding: 24px;
